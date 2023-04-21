@@ -1,0 +1,7 @@
+{
+    "name": "framework-arduinoteensy",
+    "description": "Arduino Wiring-based Framework (Teensy Core)",
+    "system": "*",
+    "url": "https://github.com/RyodoTanaka/framework-arduinoteensy",
+    "version": "1.153.1"
+}
