@@ -3,5 +3,13 @@
     "description": "Arduino Wiring-based Framework (Teensy Core)",
     "system": "*",
     "url": "https://github.com/RyodoTanaka/framework-arduinoteensy",
-    "version": "1.153.1"
+    "version": "1.153.1",
+    "build":{
+        "flags": 
+        [
+            "-Os",
+            "-Wl",
+            "-s"
+        ]
+    }
 }
